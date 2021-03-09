@@ -1,6 +1,6 @@
-![welcome](https://api.creavite.co/out/6c526e6b-7519-408e-bfd0-08b3b1483bca_standard.gif)<a href="https://goatdevelope.glitch.me/"> <img src="https://api.creavite.co/out/79c2a700-2c50-4765-9da4-32323be24602_standard.gif" align="right"/>
+![welcome](https://api.creavite.co/out/41bf8f48-110c-42d2-859d-7c2ce8d3f078_standard.gif)<a href="https://goatdevelope.glitch.me/"> <img src="https://api.creavite.co/out/79c2a700-2c50-4765-9da4-32323be24602_standard.gif" align="right"/>
 
-```js
+```jshttps://api.creavite.co/out/41bf8f48-110c-42d2-859d-7c2ce8d3f078_standard.gif
 <Quick Introduction>
 Eyyoo! Code addict, with life lessons :).
 ```
