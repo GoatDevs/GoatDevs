@@ -6,7 +6,7 @@ Eyyoo! Code addict, with life lessons :).
 ```
 
 - 🌱 I’m currently learning HTML 🤣
-- 💎 I make webpages, discord bots, and i develope script's used for popular games like [1v1.lol](https://1v1.lol), [Slither.io](https://http://slither.io/) and much more!
+- 💎 I make webpages, discord bots, and i develope script's used for popular games like [1v1.lol](https://1v1.lol), [Slither.io](https://slither.io/) and much more!
 - 📣 Projects mantained by me: [Python Giftcard Generator](https://github.com/GoatDevelope/giftcard-generator)
 - ⚡ Fun fact: I am coding a discord bot with 100+ commands and releasing it.<br />
 
@@ -29,7 +29,8 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 ### 📺 Latest Projects
 
 <!-- YOUTUBE:START -->
-- None
+- [Webpage](https://github.com/GoatDevs/webpage/)
+
 <!-- YOUTUBE:END -->
 
 ---
