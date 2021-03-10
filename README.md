@@ -16,7 +16,8 @@ Eyyoo! Code addict, with life lessons :).
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="py" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />  <br />
+<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
+<img align="left" alt="html5" width="26px" src="https://cdn.glitch.com/c6fb0503-3125-4262-a8e7-739d2558cd22%2Funnamed.png?v=1615399903001" /> <br />
 
 
 <!-- ### Jobs
