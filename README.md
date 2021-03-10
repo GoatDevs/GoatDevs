@@ -35,4 +35,4 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 
 
-**© [Extract](https://github.com/Extract-github)**
+**© [GoatDevs](https://github.com/GoatDevs)**
